@@ -1,0 +1,7 @@
+Import successful! Image dimensions: 4289 x 2835
+My rank: 1 | Iso parallel time: 1482.240438ms
+My rank: 2 | Iso parallel time: 1437.499285ms
+My rank: 3 | Iso parallel time: 1396.185875ms
+My rank: 0 | Iso parallel time: 1396.769524ms
+--------------------------------------
+Global time taken by iso_denoising: 1482.240438s

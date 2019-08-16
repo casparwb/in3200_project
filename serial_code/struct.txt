@@ -1,0 +1,25 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+struct user{
+  int userID;
+  char firstName[25];
+  char lastName[25];
+  int age;
+  float weight;
+};
+
+
+int main()
+{
+  struct user Caspar;
+  struct user Matt;
+
+  Caspar.userID = 1;
+  Matt.userID = 2;
+
+  printf("%d\n", Caspar.userID);
+
+
+  return 0;
+}
